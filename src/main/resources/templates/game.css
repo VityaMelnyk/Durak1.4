@@ -1,0 +1,38 @@
+h1 {
+    color: darkgoldenrod;
+}
+ul {
+    display: flex;
+}
+li {
+    list-style-type: none;
+}
+a{
+    transition: all 0.5s;
+}
+img {
+    height: 130px;
+}
+.allCard {
+    display: flex;
+    border: solid 2px black;
+    box-shadow: inset 0px 0px 25px 5px #ffc107;
+    justify-content: center;
+}
+.buttons {
+    margin-bottom: 10px;
+}
+.card-list {
+    margin: 10px;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+}
+.cards-container {
+    text-align: center;
+}
+.deck-container {
+    width: 300px;
+}
